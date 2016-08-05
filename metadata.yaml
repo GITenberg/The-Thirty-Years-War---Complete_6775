@@ -1,0 +1,43 @@
+_repo: The-Thirty-Years-War---Complete_6775
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Morrison, A. J. W. (Alexander James William)
+    alias: Morrison, Alexander James William
+    birthdate: 1806
+    deathdate: 1865
+    gutenberg_agent_id: '36435'
+    url: http://www.gutenberg.org/2009/agents/36435
+covers:
+- cover_type: archival
+  image_path: 6775/6775-h/images/1titlepage.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Schiller, Friedrich
+    aliases:
+    - Schiller, Johann Christoph Friedrich von
+    - Schiller, Friedrich von
+    birthdate: 1759
+    deathdate: 1805
+    gutenberg_agent_id: '289'
+    url: http://www.gutenberg.org/2009/agents/289
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
+description: ''
+gutenberg_issued: '2004-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6775'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wallenstein, Albrecht Wenzel Eusebius von, Herzog von Friedland, 1583-1634'
+- !lcc 'D'
+- !lcsh 'Thirty Years'' War, 1618-1648'
+- !lcsh 'Europe -- History -- 1517-1648'
+- GITenberg
+title: The Thirty Years War — Complete
+url: http://www.gutenberg.org/ebooks/6775
