@@ -1,5 +1,5 @@
 _repo: The-Thirty-Years-War---Complete_6775
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Morrison, A. J. W. (Alexander James William)
@@ -9,10 +9,8 @@ contributor:
     gutenberg_agent_id: '36435'
     url: http://www.gutenberg.org/2009/agents/36435
 covers:
-- cover_type: archival
-  image_path: 6775/6775-h/images/1titlepage.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schiller, Friedrich
@@ -25,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/289
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6775#The-Thirty-Years-War---Complete
 gutenberg_issued: '2004-12-08'
 gutenberg_type: Text
 identifiers:
